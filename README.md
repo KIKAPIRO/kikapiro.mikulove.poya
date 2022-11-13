@@ -1,6 +1,5 @@
 # kikapiro.mikulove.poya
 # encoding: utf-8
-# 深夜种下希望，梦中便能发芽
 import random
 import time
 from math import sin, cos, pi, log
